@@ -1,0 +1,14 @@
+name: logging_test
+description: >
+  A sample code utilising Pub logging library
+version: 0.0.1
+author:
+homepage:
+
+environment:
+  sdk: '>=2.0.0-dev <3.0.0'
+
+#dependencies:
+dependencies:
+  logging: any
+  test: any

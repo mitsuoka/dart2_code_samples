@@ -1,0 +1,11 @@
+name: dart2_samples
+version: 0.1.0
+author: Terry Mitsuoka <TerryMitsuoka@gmail.com>
+description: apps and code incleded in the dart2 language guide
+
+dependencies:
+  mime_type: any
+  path: any
+
+environment:
+  sdk: '>=0.8.10 <3.0.0'

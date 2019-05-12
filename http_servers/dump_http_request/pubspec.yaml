@@ -1,0 +1,9 @@
+name: make_a_guess
+description: >
+  A sample code by Dart team
+version: 0.0.1
+author:
+homepage:
+
+environment:
+  sdk: '>=2.0.0-dev <3.0.0'
