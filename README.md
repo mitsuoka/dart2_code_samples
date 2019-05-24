@@ -1,9 +1,9 @@
 dart2\_code\_samples
 ==
 
-**dart2\_code\_samples** is an attachment to the ["Dart 2 Language Gide"](http://www.cresc.co.jp/tech/java/Google_Dart/DartLanguageGuide.pdf) written in Japanese.
+**dart2\_code\_samples** is an attachment to the ["Dart 2 Language Gide"](https://www.cresc.co.jp/tech/java/Google_Dart2/introduction/main_page.html) written in Japanese.
 
-このサンプルは[「解説 Dart 2 プログラミング言語」](http://www.cresc.co.jp/tech/java/Google_Dart/DartLanguageGuide_about.html)の
+このサンプルは[「解説 Dart 2 プログラミング言語」](https://www.cresc.co.jp/tech/java/Google_Dart2/introduction/main_page.html)の
 添付資料です。
 
 ### 内容 ###
